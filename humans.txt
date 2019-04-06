@@ -12,6 +12,8 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 ,Angular 
-<<<<<<< HEAD
-    jQuery, Modernizr,AJAX,ibm cloud,c++,objective c,webcnter portal
 
+
+=======
+    jQuery, Modernizr,AJAX,java,python,php,adf,oracle,soa
+>>>>>>> master
