@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- Tshifhiwa Madima -- <twitter>
 
 # THANKS
 
@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3 Angular 
+    HTML5, CSS3 ,Angular 
     jQuery, Modernizr,AJAX
