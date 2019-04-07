@@ -10,6 +10,7 @@ this is one of famous devOps course
 
 ## Adding Git Comprasing file
 adding git rebuse lecture
+a lot of lecture is still coming out 
 
 
 ##contribution
