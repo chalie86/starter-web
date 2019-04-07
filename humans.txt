@@ -10,6 +10,8 @@
     Nomzamo mbatha
     actor og isibaya
 
+    adding important note
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 ,Angular 
