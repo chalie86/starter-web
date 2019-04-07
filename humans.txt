@@ -15,5 +15,5 @@
 
 
 =======
-    jQuery, Modernizr,AJAX,java,python,php,adf,oracle,soa,webcenter portal
+    jQuery, Modernizr,AJAX,java,python,php,adf,oracle,soa,webcenter portal,bpn,weblogic
 >>>>>>> master
