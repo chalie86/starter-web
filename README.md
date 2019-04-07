@@ -15,6 +15,7 @@ a lot of lecture is still coming out
 
 ##contribution
 fork request
+tetsing the stash in read me
 
 
 ## GitHub Content 
